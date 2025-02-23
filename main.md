@@ -1,8 +1,7 @@
 # How to Choose the Right Windows for Your Home (European Edition)
 
 ## 1. Introduction  
-- Importance of Choosing the Right Windows  
-- Regional Climate Considerations in Europe  
+- Importance of Choosing the Right Windows 
 
 ## 2. Types of Window Materials  
 - Overview of Material Choices in Europe  
@@ -44,8 +43,7 @@
 
 **Importance of Choosing the Right Windows**  
 Windows are a critical element in any home—not only do they define the overall aesthetic, but they also play a key role in energy efficiency, security, and comfort. In Europe, where architectural heritage and modern energy standards often meet, selecting the right windows is both an investment in your property’s style and its performance.
-
-**Regional Climate Considerations in Europe**  
+  
 Europe’s diverse climate—from the chilly winters in Northern Europe to the milder conditions in Southern regions—requires homeowners to choose windows that suit local environmental challenges. This means considering factors like thermal performance, moisture resistance, and even historical context when dealing with older buildings.
 
 ## 2. Types of Window Materials
@@ -53,11 +51,14 @@ Europe’s diverse climate—from the chilly winters in Northern Europe to the m
 **Overview of Material Choices in Europe**  
 European homeowners typically choose from a range of materials, each with its own benefits. The most common types include uPVC, timber, aluminium, and composite windows. Each option can be tailored to both modern and traditional designs prevalent across the continent.
 
-**Pros and Cons of Each Material**  
-- **uPVC:** Praised for its affordability and low maintenance, uPVC is a popular choice. However, its look may not suit every architectural style.  
-- **Timber:** Offers a timeless aesthetic and excellent insulation but demands regular maintenance.  
-- **Aluminium:** Known for strength and a sleek design, though it may require additional thermal breaks to maximize insulation.  
-- **Composite:** Blends the best qualities of different materials, delivering durability and energy efficiency—often at a higher price point.
+**Pros and Cons of Each Material**
+| Material | Pros | Cons |
+|-----------|-------------|-----------|
+| uPVC | Affordability and low maintenance | Not suitable aesthetically for historical buildings |
+| Timber | Timeless aesthetic and excellent insulation | Demands regular maintenance |
+| Aluminium | Strength and a sleek design | May require additional thermal breaks to maximize insulation |
+| Composite | Blends the best qualities of different materials | Higher initial cost |
+
 
 ## 3. Window Material Descriptions
 
@@ -93,7 +94,7 @@ Favoured in many European countries, tilt and turn windows offer versatile opera
 Casement windows open outward, providing excellent ventilation and unobstructed views. Awning windows, which hinge at the top, are ideal for rainy climates as they allow fresh air while keeping water out.
 
 **Sliding and Fixed Windows**  
-Sliding windows are perfect for modern homes where space is at a premium, offering a sleek, minimalist appearance. Fixed windows, on the other hand, are often used to frame picturesque views and enhance the overall façade without the need for operation.
+Sliding windows are perfect for modern homes where space is at a premium, offering a sleek, minimalist appearance. Fixed windows, on the other hand, are often used to frame picturesque views and enhance the overall façade.
 
 **Traditional Sash Windows**  
 In countries like the UK, traditional sash windows are part of the architectural heritage. Their vertical sliding mechanism and period-correct design help maintain the historic character of older buildings, though they may require specialized maintenance.
@@ -123,4 +124,4 @@ Across Europe, many governments offer financial incentives for upgrading to ener
 Choosing the right windows requires a careful balance between aesthetics, performance, and cost. By understanding the strengths and weaknesses of each material and style, and considering your regional climate, you can make a decision that enhances your home’s value and comfort.
 
 **Maintenance and Lifespan Expectations in Different European Climates**  
-Finally, consider how each type of window will perform over time in your specific environment. Regular maintenance, such as cleaning, sealing, or repainting, is key to ensuring longevity—especially in regions with extreme weather conditions.
+Finally, consider how each type of window will perform over time in your specific environment. Regular maintenance, such as cleaning, sealing, or repainting, is key to ensuring longevity.
